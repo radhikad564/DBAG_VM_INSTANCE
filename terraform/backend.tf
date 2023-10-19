@@ -1,6 +1,5 @@
 terraform {
   cloud {
-    hostname = "value"
     organization = "Practice_DBAG_terraform"
   }
   workspaces{
